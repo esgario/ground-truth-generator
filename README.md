@@ -27,7 +27,7 @@ Pontos:
 	Cliques com o botão direito do mouse demarcam o fundo (background);
 
 	A barra deslizante regula a importância da posição espacial dos pixels. Para um valor
-	igual a **zero**, apenas as cores dos píxels são levadas em consideração na segmentação.
+	igual a zero apenas as cores dos píxels são levadas em consideração na segmentação.
 
 Polígono:
 
