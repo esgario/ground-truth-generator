@@ -1,0 +1,20 @@
+## -------------------------------------------------------------------------------- ##
+## Software para geração de máscaras (Ground Truth)
+## Desenvolvido por José G. M. Esgario
+## -------------------------------------------------------------------------------- ##
+## OBS:
+## Necessariamente as máscaras da região de interesse ( ROI )
+## devem estar armazenadas numa subpasta dentro da pasta com as imagens originais
+## ex:
+## C:/imagens/      - pasta com imagens das lesões
+## C:/imagens/ROI/  - pasta com as imagens das máscaras
+##
+## O nome das imagens devem seguir o seguinte padrão:
+## (nome da imagem original).png
+## (nome da imagem original)_segmentation.png ( a extensão pode ser .bmp, .jpg e .png)
+## ex:
+## IMD_0001.png
+## IMD_0001_segmentation.jpg
+##
+## A imagem original e a ROI podem ter formatos diferentes.
+## -------------------------------------------------------------------------------- ##
