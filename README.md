@@ -18,9 +18,10 @@ O **Menu** está dividido em duas partes, Segmentação e Imagem.
 
 --------------- Segmentação
 
-Três ferramentas de segmentação estão disponíveis: 'Pontos', 'Polígono' e 'Mão Livre'.
+Três ferramentas de segmentação estão disponíveis: *Pontos*, *Polígono* e *Mão Livre*.
 
 Pontos:
+
 	Esta ferramenta consiste em um método de segmentação interativo.
 	Cliques com o botão esquerdo do mouse demarcam a região de interesse (foreground).
 	Cliques com o botão direito do mouse demarcam o fundo (background);
@@ -29,14 +30,16 @@ Pontos:
 	igual a **zero**, apenas as cores dos píxels são levadas em consideração na segmentação.
 
 Polígono:
+
 	Ferramenta manual que consiste na construção de um polígono demarcando a região de interesse.
 	Vértices do polígono são adicionados dando cliques do mouse.
 
 Mão Livre:
+
 	Como o nome sugere esta é uma ferramenta de desenho mão livre. A demarcação ocorre enquanto
 	o botão do mouse estiver pressionado.
 
-* obs: com excessão da ferramenta 'Pontos' as outras só permitem marcar um único objeto na imagem.
+* obs: com excessão da ferramenta *Pontos* as outras só permitem marcar um único objeto na imagem.
 
 --------------- Imagem
 
